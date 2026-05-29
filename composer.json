@@ -9,9 +9,9 @@
     "require-dev": {
         "phpstan/phpstan": "^2.2",
         "vimeo/psalm": "^6.16",
-        "symfony/console": "^7.4",
-        "symfony/filesystem": "^7.4",
-        "symfony/string": "^7.4",
+        "symfony/console": "^8.0",
+        "symfony/filesystem": "^8.0",
+        "symfony/string": "^8.0",
         "sebastian/diff": "^6.0"
     },
     "php-ext": {
